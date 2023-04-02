@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppClima</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="header_app">Buscador del clima</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_button">Obtener Clima</string>
+    <string name="pais_hint">Digite el nombre del pais:</string>
+    <string name="ciudad_hint">Digite el nombre de la ciudad:</string>
+</resources>

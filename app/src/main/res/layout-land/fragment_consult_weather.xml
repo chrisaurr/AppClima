@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="top|center"
+    android:orientation="vertical"
+    tools:context=".ConsultWeather">
+
+    <!-- TODO: Update blank fragment layout -->
+    <EditText
+        android:id="@+id/txtPais"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/pais_hint"
+        android:layout_marginTop="@dimen/margin_top_edittext"
+        android:layout_marginBottom="@dimen/margin_bottom_edittext"
+        android:layout_marginStart="@dimen/margin_start_edittext"
+        android:layout_marginEnd="@dimen/margin_end_edittext"/>
+
+    <EditText
+        android:id="@+id/txtCiudad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/ciudad_hint"
+        android:layout_marginBottom="@dimen/margin_bottom_edittext"
+        android:layout_marginStart="@dimen/margin_start_edittext"
+        android:layout_marginEnd="@dimen/margin_end_edittext"/>
+
+    <Button
+        android:id="@+id/btnClima"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_button"
+        android:paddingStart="@dimen/padding_start"
+        android:paddingEnd="@dimen/padding_end"
+        android:layout_marginTop="@dimen/margin_top_button"/>
+
+</LinearLayout>

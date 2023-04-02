@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_size">25sp</dimen>
+    <dimen name="subtitle">15sp</dimen>
+    <dimen name="weather">35sp</dimen>
+    <dimen name="weather_max">10sp</dimen>
+    <dimen name="weather_min">10sp</dimen>
+    <dimen name="margin_top_edittext">25dp</dimen>
+    <dimen name="margin_bottom_edittext">30dp</dimen>
+    <dimen name="margin_start_edittext">15dp</dimen>
+    <dimen name="margin_end_edittext">15dp</dimen>
+    <dimen name="padding_top">15dp</dimen>
+    <dimen name="padding_bottom">15dp</dimen>
+    <dimen name="padding_start">35dp</dimen>
+    <dimen name="padding_end">35dp</dimen>
+    <dimen name="margin_top_button">10dp</dimen>
+    <dimen name="margin_bottom_button">30dp</dimen>
+
+</resources>
